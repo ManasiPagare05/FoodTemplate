@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.wrapper{
+    max-width: 100%;
+    margin:0% 25%;
+}
+
+.Navbar{
+    display: flex;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    
+}
